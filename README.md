@@ -8,7 +8,7 @@
 
 Hi there! These are my Cloud9 labs. 
 
-Here you can find various programs, including labs I started completely from scrtach in the 'Creations' folder.
+Here you can find various programs, including labs I started completely from scratch in the 'Creations' folder.
 
 
 Cheers!
